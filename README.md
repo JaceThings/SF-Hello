@@ -16,7 +16,7 @@ python ./convert.py "path/to/input.json" "path/to/output.svg"
 ## Authors
 
 - Gigi - [@g-cqd](https://github.com/g-cqd)
-- Jace - [@Soft-Bred](https://github.com/Soft-Bred)
+- Jace - [@JaceThings](https://github.com/JaceThings)
 
 
 
