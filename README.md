@@ -1,6 +1,6 @@
 # SF Hello
 
-![hello thumbnail](https://raw.githubusercontent.com/g-cqd/SF-Hello/main/hello.png)
+![hello thumbnail](./hello.png)
 
 This repository contains Apple vectorial shapes for the famous "hello" word in every languages available.
 
